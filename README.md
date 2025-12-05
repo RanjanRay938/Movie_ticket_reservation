@@ -52,6 +52,10 @@ A simple movie ticket reservation system to book tickets, view available movies,
 - Manage your reservations and cancel tickets as needed.
 
  Sample of output:- 
+ <img width="1312" height="872" alt="image" src="https://github.com/user-attachments/assets/726e4e9c-8d8d-474f-9455-5a8dda4fa048" />
+ <img width="802" height="872" alt="image" src="https://github.com/user-attachments/assets/ccfbbf24-71e7-463e-bc5f-31068a1e753e" />
+
+
 
 ## Folder Structure
 
