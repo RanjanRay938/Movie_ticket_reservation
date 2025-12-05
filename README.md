@@ -78,8 +78,5 @@ Movie_ticket_reservation/
 
 This project is licensed under the MIT License.
 
-## Author
 
-Ranjan Ray  
-[GitHub Profile](https://github.com/RanjanRay938)
 
