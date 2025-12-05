@@ -51,6 +51,8 @@ A simple movie ticket reservation system to book tickets, view available movies,
 - View available movies, select your choice, and book your seat.
 - Manage your reservations and cancel tickets as needed.
 
+ Sample of output:- 
+
 ## Folder Structure
 
 ```
